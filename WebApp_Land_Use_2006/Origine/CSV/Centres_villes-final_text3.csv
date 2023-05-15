@@ -1,0 +1,305 @@
+Bruxelles;be001l_bruxelles;BE;3923640.29;3097017.51
+Antwerpen;be002l_antwerpen;BE;3930142.26;3138348.86
+Gent;be003l_gent;BE;3881660.36;3123669.04
+Brugge;be006l_brugge;BE;3848466.44;3143833.27
+Charleroi;be004l_charleroi;BE;3926459.41;3048300.16
+Liege;be005l_liege;BE;4008265.85;3068743.66
+Namur;be007l_namur;BE;3956822.49;3052171.46
+Lille;fr009c_lille;FR;3831601.71;3080820.7
+Montpellier;fr010l_montpellier;FR;3825892;2298347
+Le Havre;fr012l_le_havre;FR;3606684;2979436
+Metz;fr017l_metz;FR;4041955.28;2896859.99
+Toulon;fr032l_toulon;FR;3989214.87;2232635.16
+Marseille;fr203c_marseille;FR;3944490.19;2254881.16
+Nice;fr205c_nice;FR;4100553.67;2291438.77
+Lens;fr207c_lens_lievin;FR;3812569.94;3060103.06
+Nancy;fr016l_nancy;FR;4040085.47;2849448.98
+Clermont-Ferrand;fr022l_clermont-ferrand;FR;3783479.27;2543538.63
+Strasbourg;fr006l_strasbourg;FR;4155023.7;2832653.37
+Nantes;fr008l_nantes;FR;3449239.11;2746535.45
+Saint Etienne;fr011c_saint_etienne;FR;3881666.33;2497393.55
+Amiens;fr014l_amiens;FR;3768492.95;3004741.58
+Reims;fr018l_reims;FR;3886997.53;2922610.55
+Orleans;fr019l_orleans;FR;3717106.15;2787450.24
+Grenoble;fr026l_grenoble;FR;3985560.95;2462311.89
+Tours;fr035l_tours;FR;3619665.67;2741619.07
+Aix-en-Provence;fr202c_aix_en_provence;FR;3952315.72;2280206.77
+Rennes;fr013l_rennes;FR;3454963.87;2846229.85
+Toulouse;fr004l_toulouse;FR;3630188.8;2316738.92
+Dijon;fr020l_dijon;FR;3946194.51;2702355.14
+Poitiers;fr021l_poitiers;FR;3582285.78;2655564.34
+Bordeaux;fr007l_bordeaux;FR;3486142.85;2473309.44
+Besancon;fr025l_besancon;FR;4019700.12;2688361.56
+Caen;fr023l_caen;FR;3567447.35;2949691.29
+Ajaccio;fr027l_ajaccio;FR;4216016.55;2091545.38
+Limoges;fr024l_limoges;FR;3642760.07;2563619.15
+Rouen;fr015l_rouen;FR;3677242.628;2964628.942
+Paris;fr001l_paris;FR;3760786.11;2889470.18
+Lyon;fr003l_lyon;FR;3919055.81;2531161
+Wien;at001l_wien;AT;4793046.16;2808920.12
+Graz;at002l_graz;AT;4733995.94;2677073.98
+Linz;at003l_linz;AT;4638630.77;2808800.76
+Salzburg;at004l_salzburg;AT;4549023.47;2748222.72
+Innsbruck;at005l_innsbruck;AT;4426558.93;2684560.34
+Plovdiv;bg002l_plovdiv;BG;5535674.73;2234871.61
+Varna;bg003l_varna;BG;5765389.62;2406897.8
+Burgas;bg004l_burgas;BG;5747409.66;2320825.15
+Ruse;bg006l_ruse;BG;5595959.17;2440747.97
+Vidin;bg007l_vidin;BG;5350620.43;2408321.82
+Pleven;bg005l_pleven;BG;5499857.25;2370879.8
+Sofia;bg001l_sofia;BG;5410324.73;2273619.98
+Starazagora;bg501c_starazagora;BG;5600738.17;2280060.97
+Lefkosia;cy001l_lefkosia;CY;6434935;1669889
+Brno;cz002l_brno;CZ;4801875.06;2919475.51
+Ostrava;cz003l_ostrava;CZ;4916050.1;3003557.04
+Usti Nad Labem;cz005l_usti_nad_labem;CZ;4606321.12;3068823.47
+Olomouc;cz006l_olomouc;CZ;4844358.39;2968174.88
+Liberec;cz007l_liberec;CZ;4677520.61;3085465.23
+Hradec Kralove;cz009l_hradec_kralove;CZ;4737163.88;3027712.21
+Pardubice;cz010l_pardubice;CZ;4734536.7;3008118.28
+Zlin;cz011l_zlin;CZ;4878375.93;2930570.87
+Jihlava;cz014l_jihlava;CZ;4726499.97;2935789.46
+Ceske Budejovice;cz008l_ceske_budejovice;CZ;4648340.83;2883402.84
+Plzen;cz004l_plzen;CZ;4564372.85;2965097.26
+Karlovyvary;cz013l_karlovyvary;CZ;4525459.56;3016870.72
+Praha;cz001l_praha;CZ;4636991.78;3006718.92
+Munchen;de003l_munchen;DE;4438311.45;2781694.62
+Koln;de004l_koln;DE;4107362.73;3096338.25
+Desden;de009l_dresden;DE;4583163.62;3110795.55
+Bremen;de012l_bremen;DE;4241107.52;3330389.8
+Hannover;de013l_hannover;DE;4303114.52;3250898.25
+Wuppertal;de016l_wuppertal;DE;4121861.74;3131480.37
+Bielefeld;de017l_bielefeld;DE;4220399.75;3213456.71
+Darmstadt;de025l_darmstadt;DE;4224377.05;2974171.94
+Trier;de026l_trier;DE;4078467.57;2965508.55
+Frankfurt Oder;de029l_frankfurt_oder;DE;4631146.38;3258004.66
+Karlsruhe;de035l_karlsruhe;DE;4204164;2878541
+Monchengladbach;de036l_monchengladbach;DE;4071590.49;3126242.67
+Dusseldorf;de011l_dusseldorf;DE;4095549.31;3128830.92
+Saarbrucken;de040l_saarbrucken;DE;4102304.83;2906853.3
+Frankfurt Am Main;de005l_frankfurt_am_main;DE;4226692.92;3000643.31
+Leipzig;de008l_leipzig;DE;4486296.11;3138844.27
+Magdeburg;de019l_magdeburg;DE;4433267.78;3225892.87
+Schwerin;de031l_schwerin;DE;4414167.3;3392522.32
+Koblenz;de042l_koblenz;DE;4150117.28;3030385.26
+Weimar;de030l_weimar;DE;4414344.99;3097293.46
+Kiel;de039l_kiel;DE;4329619.05;3468383.69
+Erfurt;de032l_erfurt;DE;4393290.61;3096783.33
+Bonn;de034l_bonn;DE;4116531.25;3073309.92
+Mainz;de037l_mainz;DE;4197467.02;2989064.62
+Wiesbaden;de020l_wiesbaden;DE;4195181.28;2998123.32
+Freiburg Im Breisgau;de027l_freiburg_im_breisgau;DE;4160427.16;2767098.26
+Hamburg;de002l_hamburg;DE;4320496.05;3382521.72
+Stuttgart;de007l_stuttgart;DE;4260560.77;2851643.62
+Nurnberg;de014l_nurnberg;DE;4399119.77;2927499.15
+Halle an der Saale;de018l_halle_an_der_saale;DE;4457936.71;3154263.51
+Gottingen;de021l_gottingen;DE;4316849.47;3157534.42
+Regensburg;de028l_regensburg;DE;4474941.92;2880390.22
+Augsburg;de033l_augsburg;DE;4387609.85;2806551.68
+Berlin;de001l_berlin;DE;4552290.95;3273087.2
+Essen;de038l_essen;DE;4113657.22;3153949.05
+Kobenhavn;dk001l_kobenhavn;DK;4482756;3621869.52
+Odense;dk003l_odense;DK;4345632.67;3587972.15
+Aarhus;dk002l_aarhus;DK;4333633.12;3672113.8
+Aalborg;dk004l_aalborg;DK;4316183.43;3771738.75
+Tallinn;ee001l_tallinn;EE;5152547.78;4124099.83
+Tartu;ee002l_tartu;EE;5290446.55;4034306.69
+Valencia;es003l_valencia;ES;3426005.01;1881067.69
+Sevilla;es004l_sevilla;ES;2904992.64;1738954.18
+Zaragoza;es005l_zaragoza;ES;3414990.34;2126922.25
+Las Palmas;es008l_las_palmas;ES;1816918.6;984295.49
+Valladolid;es009l_valladolid;ES;3098156.62;2180934.85
+Palma de Mallorca;es010l_palma_di_mallorca;ES;3686975.23;1861554.6
+Bilbao;es019l_bilbao;ES;3274748.93;2329926.33
+Cordoba;es020l_cordoba;ES;3020705.12;1771227.42
+Vigo;es022l_vigo;ES;2787975.84;2317756.36
+Gijon;es023l_gijon;ES;3062455.8;2402804.46
+Santander;es015l_santander;ES;3207650.25;2364388.44
+Alicante;es021l_alicante;ES;3401679.31;1759023.15
+Santa Cruz de Tenerife;es025l_santa_cruz_de_tenerife;ES;1748925.05;1047566.96
+Malaga;es006l_malaga;ES;3030593.681;1638411.558
+Murcia;es007l_murcia;ES;3339988.8;1727487.94
+Santiago de Compostela;es011l_santiago_de_compostela;ES;2818727.67;2383804.47
+Badajoz;es017l_badajoz;ES;2852887.31;1919060.98
+Logrono;es018l_logrono;ES;3299881.68;2235820.95
+Vitoria Gasteiz;es012l_vitoria_gasteiz;ES;3287563.4;2280698.91
+Pamplona Iruna;es014l_pamplona_iruna;ES;3370161.81;2264007.91
+Oviedo;es013l_oviedo;ES;3043994.22;2385780.95
+Toledo;es016l_toledo;ES;3122078.37;1973697.98
+Madrid;es001l_madrid;ES;3160408.2;2029896.34
+Barcelona;es002l_barcelona;ES;3665282.52;2065232.04
+Helsinki;fi001l_helsinki;FI;5146128.64;4206120.48
+Tampere;fi002l_tampere;FI;5050974.27;4337830.34
+Oulu;fi004l_oulu;FI;5048289.35;4737400.4
+Turku;fi003l_turku;FI;4994263.6;4208331.24
+Thessaloniki;gr002l_thessaloniki;GR;5416193.88;2041247.56
+Patrai;gr003l_patrai;GR;5350722.33;1764083.68
+Iraklion;gr004l_iraklion;GR;5703069.05;1501634.71
+Larisa;gr005l_larisa;GR;5387379.29;1925734.69
+Volos;gr006l_volos;GR;5436748.18;1903235.86
+Ioannina;gr007l_ioannina;GR;5253987.84;1908350.41
+Kavala;gr008l_kavala;GR;5531466.77;2097786.38
+Kalamata;gr009l_kalamata;GR;5402385.44;1637721.49
+Athina;gr001l_athina;GR;5528442.02;1764535.5
+Budapest;hu001l_budapest;HU;5001804.64;2750785.84
+Miskolc;hu002l_miskolc;HU;5120852.5;2835246.92
+Pecs;hu004l_pecs;HU;4956846.95;2586645.76
+Debrecen;hu005l_debrecen;HU;5192884.86;2781549.01
+Szeged;hu006l_szeged;HU;5101607.34;2624669.51
+Gyor;hu007l_gyor;HU;4893454.21;2759551.16
+Szekesfehervar;hu009l_szekesfehervar;HU;4957251.92;2711441.11
+Nyiregyhaza;hu003l_nyiregyhaza;HU;5192274.74;2829512.61
+Kecskemet;hu008l_kecskemet;HU;5057657.045;2691938.605
+Galway;ie004c_galway;IE;3067437.19;3517994
+Waterford;ie005c_waterford;IE;3165444.51;3375668.04
+Cork;ie002l_cork;IE;3065629.03;3358890.24
+Dublin;ie001l_dublin;IE;3247982.46;3480633.5
+Limerick;ie003l_limerick;IE;3076899;3445014
+Milano;it002l_milano;IT;4257596.67;2484162.32
+Napoli;it003l_napoli;IT;4680898.17;1981412.9
+Torino;it004l_torino;IT;4138127.8;2442956.12
+Palermo;it005l_palermo;IT;4617882.55;1677045.01
+Firenze;it007l_firenze;IT;4422458.84;2296393.28
+Trieste;it015l_trieste;IT;4615025.35;2511530.83
+Ancona;it017l_ancona;IT;4605643;2285331
+Pescara;it019l_pescara;IT;4668662.35;2158950.26
+Reggio di Calabria;it025l_reggio_di_calabria;IT;4819050.38;1688215.47
+Brescia;it029l_brescia;IT;4337989.9;2491104.52
+Catania;it010l_catania;IT;4773959.32;1617980.97
+Cremona;it013l_cremona;IT;4322930.19;2446847.42
+Trento;it014l_trento;IT;4407858.97;2551333.88
+Caserta;it021l_caserta;IT;4686447.91;2007710.5
+Taranto;it022l_taranto;IT;4936250.14;1960138.64
+Catanzaro;it024l_catanzaro;IT;4895897.06;1782450.42
+Cagliari;it027l_cagliari;IT;4243710.45;1792283.52
+Modena;it030l_modena;IT;4394617.16;2393207.43
+Foggia;it031l_foggia;IT;4785500.04;2057127.96
+Bari;it008l_bari;IT;4899309.42;2029131.04
+Venezia;it011l_venezia;IT;4503880.78;2483331.79
+Verona;it012l_verona;IT;4398876.75;2481165.37
+Perugia;it016l_perugia;IT;4515934.76;2225787.53
+Padova;it028l_padova;IT;4468118.02;2479042.53
+Salerno;it032l_salerno;IT;4724680.23;1966109.08
+Bologna;it009l_bologna;IT;4427972.19;2376854.77
+Laquila;it018l_laquila;IT;4600890.22;2145207.03
+Potenza;it023l_potenza;IT;4813851.77;1967992.16
+Campobasso;it020l_campobasso;IT;4710940;2062678
+Genova;it006l_genova;IT;4235811.55;2367348.04
+Sassari;it026l_sassari;IT;4198734.57;1959937.21
+Roma;it001l_roma;IT;4527819.53;2091165.48
+Vilnius;lt001l_vilnius;LT;5298852.56;3612109.54
+Kaunas;lt002l_kaunas;LT;5205835.61;3617896.61
+Panevezys;lt003l_panevezys;LT;5216967.67;3714536.31
+Luxembourg;lu001l_luxembourg;LU;4041436.58;2951531.34
+Liepaja;lv002l_liepaja;LV;4996288.39;3763155.12
+Riga;lv001l_riga;LV;5173870.59;3844919.91
+Valletta;mt001l_valletta;MT;4731726.68;1438503.14
+Gozo;mt002l_gozo;MT;4706373.27;1453224.77
+Sgravenhage;nl001l_sgravenhage;NL;3931767.87;3233806.99
+Amsterdam;nl002l_amsterdam;NL;3973942.76;3263083.61
+Rotterdam;nl003l_rotterdam;NL;3941656.24;3215787.81
+Utrecht;nl004l_utrecht;NL;3986807;3231416
+Eindhoven;nl005l_eindhoven;NL;4006976.38;3156862.89
+Tilburg;nl006l_tilburg;NL;3980550.18;3171974.12
+Groningen;nl007l_groningen;NL;4091764.46;3351014.87
+Breda;nl012l_breda;NL;3960772.52;3177643.49
+Nijmegen;nl013l_nijmegen;NL;4036263.14;3201064.8
+Apeldoorn;nl014l_apeldoorn;NL;4045304.89;3241651.38
+Enschede;nl008l_enschede;NL;4108994.35;3238939.67
+Arnhem;nl009l_arnhem;NL;4040227.21;3215540.93
+Leeuwarden;nl015l_leeuwarden;NL;4040239.07;3351911.43
+Heerlen;nl010l_heerlen;NL;4038103.234;3093924.408
+Warszawa;pl001l_warszawa;PL;5069109.65;3293717.88
+Lodz;pl002l_lodz;PL;4971814.38;3226074.15
+Krakow;pl003l_krakow;PL;5030139.26;3042182.61
+Poznan;pl005l_poznan;PL;4791904.41;3280286.87
+Lublin;pl009l_lublin;PL;5193389.92;3201592.38
+Torun;pl013l_torun;PL;4897999.56;3358582.44
+Olsztyn;pl014l_olsztyn;PL;5009173.5;3457843.89
+Gdansk;pl006l_gdansk;PL;4881456.38;3505167.61
+Kielce;pl012l_kielce;PL;5066292.69;3138775.77
+Radom;pl025l_radom;PL;5094003.33;3202641.91
+Bydgoszcz;pl008l_bydgoszcz;PL;4855295.67;3364349.36
+Katowice;pl010l_katowice;PL;4962421.93;3055797.5
+Plock;pl026l_plock;PL;4975774.26;3314362.24
+Koszalin;pl028l_koszalin;PL;4724013.59;3471048.55
+Grozow Wielkopolski;pl017l_gorzow_wielkopolski;PL;4674799.07;3304187.3
+Zielona Gora;pl018l_zielona_gora;PL;4699796.33;3217695.23
+Konin;pl022l_konin;PL;4883845;3265402
+Czestochowa;pl024l_czestochowa;PL;4961644.27;3117543.44
+Wroclaw;pl004l_wroclaw;PL;4812990.64;3134762.18
+Bialystok;pl011l_bialystok;PL;5197093.63;3416023.93
+Kalisz;pl027l_kalisz;PL;4878201.03;3214534.98
+Szczecin;pl007l_szczecin;PL;4622722.24;3379493.93
+Jelenia Gora;pl019l_jelenia_gora;PL;4723927.36;3103773.17
+Opole;pl016l_opole;PL;4879859.85;3092141.96
+Nowy Sacz;pl020l_nowy_sacz;PL;5090438.56;3001942.79
+Rzeszow;pl015l_rzeszow;PL;5176650.17;3061900.3
+Suwalki;pl021l_suwalki;PL;5161703.41;3518926.83
+Coimbra;pt005l_coimbra;PT;2761629.96;2092552.94
+Braga;pt003l_braga;PT;2794720.87;2237518.85
+Lisboa;pt001l_lisboa;PT;2665224.66;1945220.16
+Setubal;pt006l_setubal;PT;2681531.86;1920076.15
+Aveiro;pt008l_aveiro;PT;2753702.4;2143624.73
+Faro;pt009l_faro;PT;2728021.25;1736548.07
+Oporto;pt002l_oporto;PT;2769915.32;2197844.53
+Ponta Delgada;pt007l_ponta_delgada;PT;1282477.3;2359290.24
+Funchal;pt004l_funchal;PT;1817496.99;1509431.89
+Craiova;ro004l_craiova;RO;5416846.15;2457914.44
+Timisoara;ro003l_timisoara;RO;5191949.19;2581213.84
+Cluj Napoca;ro002l_cluj_napoca;RO;5353004.48;2723209.48
+Bucuresti;ro001l_bucuresti;RO;5590552.05;2507394.79
+Braila;ro005l_braila;RO;5718003.87;2630804.43
+Oradea;ro006l_oradea;RO;5223505.18;2733094.45
+Bacau;ro007l_bacau;RO;5606255.18;2752785.12
+Arad;ro008l_arad;RO;5192223.1;2628996.98
+Sibiu;ro009l_sibiu;RO;5415085.13;2624925.74
+Piatra Neamt;ro011l_piatra_neamt;RO;5556983.94;2783982.92
+Calarasi;ro012l_calarasi;RO;5695604.44;2502596.46
+Giurgiu;ro013l_giurgiu;RO;5595792.06;2446127.65
+Alba Iulia;ro014l_alba_iulia;RO;5366038.62;2646906.52
+Targu Mures;ro010l_targu_mures;RO;5430554.92;2712536.42
+Jonkoping;se004l_jonkoping;SE;4568982.5;3860636.42
+Malmo;se003l_malmo;SE;4510205.97;3615260.99
+Orebro;se008l_orebro;SE;4618545.48;4030021.25
+Umea;se005l_umea;SE;4826482;4562104.62
+Linkoping;se007l_linkoping;SE;4649543.74;3936168.01
+Goteborg;se002l_goteborg;SE;4438392.74;3846636.67
+Uppsala;se006l_uppsala;SE;4749723.23;4107337.74
+Stockholm;se001l_stockholm;SE;4779373.08;4051193.74
+Ljubljana;si001l_ljubljana;SI;4669999.88;2559122.85
+Maribor;si002l_maribor;SI;4754157.56;2621955.28
+Presov;sk005l_presov;SK;5140057.52;2938714.51
+Banska Bystrica;sk003l_banska_bystrica;SK;4992769;2889045.45
+Kosice;sk002l_kosice;SK;5144308.72;2907709.79
+Bratislava;sk001l_bratislava;SK;4849389.48;2806639.91
+Nitra;sk004l_nitra;SK;4919581.55;2831942.05
+Trnava;sk007l_trnava;SK;4882206.85;2835829.96
+Trencin;sk008l_trencin;SK;4909435.63;2896736.78
+Zilina;sk006l_zilina;SK;4956288.11;2938762.66
+Sheffield;uk010l_sheffield;UK;3561182.67;3423929.94
+Leicester;uk014l_leicester;UK;3570862.4;3338156.32
+Belfast;uk012l_belfast;UK;3300735.04;3612144.44
+Cambridge;uk017l_cambridge;UK;3647907.701;3278537.576
+Stoke on Trent;uk027l_stoke_on_trent;UK;3507645.49;3390282.84
+Wolverhampton;uk028l_wolverhampton;UK;3503298.68;3343743.86
+Nottingham;uk029l_nottingham;UK;3575235.81;3372867.34
+Liverpool;uk006l_liverpool;UK;3462904.82;3442952.41
+Edinburgh;uk007l_edinburgh;UK;3501797.178;3725039.628
+Derry;uk015l_derry;UK;3224628.18;3677029.14
+Wrexham;uk022l_wrexham;UK;3454916.85;3404362.95
+Worcester;uk024l_worcester;UK;3489522.05;3301614.03
+Coventry;uk025l_coventry;UK;3541608.71;3317119.89
+Birmingham;uk002l_birmingham;UK;3516484;3329466
+Portsmouth;uk023l_portsmouth;UK;3542440.93;3135368.27
+Cardiff;uk009l_cardiff;UK;3411289.73;3235189.83
+Kingston upon Hull;uk026l_kingston_upon_hull;UK;3641357.24;3452660.91
+Glasgow;uk004l_glasgow;UK;3435026.46;3727834.33
+Newcastle upon Tyne;uk013l_newcastle_upon_tyne;UK;3581030.59;3601215.89
+Aberdeen;uk016l_aberdeen;UK;3592034;3844749.92
+Exeter;uk018l_exeter;UK;3372236.63;3156163.56
+Lincoln;uk019l_lincoln;UK;3619718.9;3398062.84
+Bristol;uk011l_bristol;UK;3450043;3224539
+London;uk001l_london;UK;3623782.8;3203155.59
+Manchester;uk008l_manchester;UK;3512467.93;3443107.67
+Leeds;uk201l_leeds;UK;3563728;3471123
