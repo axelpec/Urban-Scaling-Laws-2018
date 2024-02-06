@@ -26,6 +26,8 @@ library(shinythemes)
 library(shinyWidgets)
 library(rsconnect)
 
+register_stadiamaps("ffcca74d-61fd-40f5-b624-3088885567aa") 
+
 
 # ---------------------- Loading data ------------------------------------------------------------------------------------------------------------    
 
@@ -542,7 +544,7 @@ ui <- navbarPage("Artificial land use in European cities in 2006",
                                                                        unique(centre_ville2$country)))), br(), 
                                      fluidRow(column(2, uiOutput("villes1")),
                                               column(2, uiOutput("villes2")),
-                                              column(3, chooseSliderSkin(skin = "HTML5", color = "MediumBlue"),
+                                              column(3, chooseSliderSkin(skin = "Modern", color = "MediumBlue"),
                                                      sliderInput("distance", label = "Choice of distance in km",
                                                                  min = 1, max = 60, step = 0.5, value = 30)),
                                               column(2, htmlOutput("InfosRescaling3")),
@@ -1424,7 +1426,7 @@ server <- function(input, output) {
       names(bbox) <- c("left","bottom","right","top")
       # LAT1 = st_bbox(city_tab)[2] ; LAT2 = st_bbox(city_tab)[4]
       # LON1 = st_bbox(city_tab)[1] ; LON2 = st_bbox(city_tab)[3]
-      map <- get_stamenmap(bbox = bbox, zoom = 11, maptype = "terrain")
+      map <- get_stadiamap(bbox = bbox, maptype = "stamen_terrain") 
       mytheme <- theme(plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
                        axis.title = element_text(face = "bold", size = rel(1)),
                        axis.title.y = element_text(angle = 90, vjust = 2),
@@ -1450,7 +1452,7 @@ server <- function(input, output) {
         st_transform(4326)
       bbox <- st_bbox(city_tab)
       names(bbox) <- c("left","bottom","right","top")
-      map <- get_stamenmap(bbox = bbox, zoom = 12, maptype = "terrain")
+      map <- get_stadiamap(bbox = bbox, maptype = "stamen_terrain", zoom = 12) 
       mytheme <- theme(plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
                        axis.title = element_text(face = "bold", size = rel(1)),
                        axis.title.y = element_text(angle = 90, vjust = 2),
@@ -1475,7 +1477,7 @@ server <- function(input, output) {
         st_transform(4326)
       bbox <- st_bbox(city_tab)
       names(bbox) <- c("left","bottom","right","top")
-      map <- get_stamenmap(bbox = bbox, zoom = 13, maptype = "terrain")
+      map <- get_stadiamap(bbox = bbox, maptype = "stamen_terrain", zoom = 13) 
       mytheme <- theme(plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
                        axis.title = element_text(face = "bold", size = rel(1)),
                        axis.title.y = element_text(angle = 90, vjust = 2),
@@ -1500,7 +1502,7 @@ server <- function(input, output) {
         st_transform(4326)
       bbox <- st_bbox(city_tab)
       names(bbox) <- c("left","bottom","right","top")
-      map <- get_stamenmap(bbox = bbox, zoom = 15, maptype = "terrain")
+      map <- get_stadiamap(bbox = bbox, maptype = "stamen_terrain", zoom = 15) 
       mytheme <- theme(plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
                        axis.title = element_text(face = "bold", size = rel(1)),
                        axis.title.y = element_text(angle = 90, vjust = 2),
@@ -1525,7 +1527,7 @@ server <- function(input, output) {
         st_transform(4326)
       bbox <- st_bbox(city_tab)
       names(bbox) <- c("left","bottom","right","top")
-      map <- get_map(c(bbox), zoom = 13, maptype = "terrain", source = "stamen")
+      map <- get_stadiamap(bbox = bbox, maptype = "stamen_terrain", zoom = 13) 
       mytheme <- theme(plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
                        axis.title = element_text(face = "bold", size = rel(1)),
                        axis.title.y = element_text(angle = 90, vjust = 2),
@@ -1551,7 +1553,7 @@ server <- function(input, output) {
         st_transform(4326)
       bbox <- st_bbox(city_tab)
       names(bbox) <- c("left","bottom","right","top")
-      map <- get_map(c(bbox), zoom = 13, maptype = "terrain", source = "stamen")
+      map <- get_stadiamap(bbox = bbox, maptype = "stamen_terrain", zoom = 13) 
       mytheme <- theme(plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
                        axis.title = element_text(face = "bold", size = rel(1)),
                        axis.title.y = element_text(angle = 90, vjust = 2),
