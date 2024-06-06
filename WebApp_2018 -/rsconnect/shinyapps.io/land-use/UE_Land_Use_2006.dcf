@@ -1,0 +1,11 @@
+name: UE_Land_Use_2006
+title: UE_Land_Use_2006
+username:
+account: land-use
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6222320
+bundleId: 8226262
+url: https://land-use.shinyapps.io/UE_Land_Use_2006/
+asMultiple: FALSE
+asStatic: FALSE
